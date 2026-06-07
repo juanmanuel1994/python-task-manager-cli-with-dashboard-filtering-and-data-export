@@ -1,0 +1,167 @@
+[
+  {
+    "id": "f2671284",
+    "title": "Prepare Q3 financial report",
+    "category": "work",
+    "priority": "critical",
+    "status": "in_progress",
+    "description": "Consolidate data from all departments and present to CFO",
+    "due_date": "2025-07-01",
+    "created_at": "2026-06-07T13:14:14.385820",
+    "updated_at": "2026-06-07T13:14:14.385853"
+  },
+  {
+    "id": "ddfd9bf5",
+    "title": "Review pull requests on GitHub",
+    "category": "work",
+    "priority": "high",
+    "status": "pending",
+    "description": "At least 5 PRs waiting for review",
+    "due_date": "2026-06-07",
+    "created_at": "2026-06-07T13:14:14.385894",
+    "updated_at": "2026-06-07T13:14:14.385896"
+  },
+  {
+    "id": "3fcf8be7",
+    "title": "Update project documentation",
+    "category": "work",
+    "priority": "medium",
+    "status": "pending",
+    "description": "Add API docs and deployment guide",
+    "due_date": "2026-06-20",
+    "created_at": "2026-06-07T13:14:14.385904",
+    "updated_at": "2026-06-07T13:14:14.385906"
+  },
+  {
+    "id": "2c759000",
+    "title": "Onboard new developer",
+    "category": "work",
+    "priority": "high",
+    "status": "in_progress",
+    "description": "Set up access, walk through codebase",
+    "due_date": "2026-06-10",
+    "created_at": "2026-06-07T13:14:14.385912",
+    "updated_at": "2026-06-07T13:14:14.385913"
+  },
+  {
+    "id": "4bf1d9d1",
+    "title": "Weekly team sync",
+    "category": "work",
+    "priority": "low",
+    "status": "done",
+    "description": "Regular Monday standup",
+    "due_date": null,
+    "created_at": "2026-06-07T13:14:14.385919",
+    "updated_at": "2026-06-07T13:14:14.385920"
+  },
+  {
+    "id": "2cc80704",
+    "title": "Book dentist appointment",
+    "category": "health",
+    "priority": "high",
+    "status": "pending",
+    "description": "Overdue checkup",
+    "due_date": "2025-06-05",
+    "created_at": "2026-06-07T13:14:14.385925",
+    "updated_at": "2026-06-07T13:14:14.385927"
+  },
+  {
+    "id": "65edc02e",
+    "title": "30-minute run",
+    "category": "health",
+    "priority": "medium",
+    "status": "done",
+    "description": "Morning jog around the park",
+    "due_date": null,
+    "created_at": "2026-06-07T13:14:14.385932",
+    "updated_at": "2026-06-07T13:14:14.385933"
+  },
+  {
+    "id": "3f39ef2b",
+    "title": "Meal prep for the week",
+    "category": "health",
+    "priority": "low",
+    "status": "pending",
+    "description": "",
+    "due_date": "2026-06-08",
+    "created_at": "2026-06-07T13:14:14.385938",
+    "updated_at": "2026-06-07T13:14:14.385939"
+  },
+  {
+    "id": "21083a9c",
+    "title": "Read 'Clean Code' chapter 5",
+    "category": "learning",
+    "priority": "medium",
+    "status": "in_progress",
+    "description": "",
+    "due_date": "2026-06-15",
+    "created_at": "2026-06-07T13:14:14.385945",
+    "updated_at": "2026-06-07T13:14:14.385946"
+  },
+  {
+    "id": "80d200d4",
+    "title": "Complete Python course module",
+    "category": "learning",
+    "priority": "high",
+    "status": "pending",
+    "description": "Async/await section",
+    "due_date": "2026-06-12",
+    "created_at": "2026-06-07T13:14:14.385951",
+    "updated_at": "2026-06-07T13:14:14.385952"
+  },
+  {
+    "id": "f0062ba7",
+    "title": "Pay electricity bill",
+    "category": "finance",
+    "priority": "critical",
+    "status": "pending",
+    "description": "Last warning notice received",
+    "due_date": "2025-06-01",
+    "created_at": "2026-06-07T13:14:14.385958",
+    "updated_at": "2026-06-07T13:14:14.385959"
+  },
+  {
+    "id": "875eb601",
+    "title": "Renew car insurance",
+    "category": "finance",
+    "priority": "high",
+    "status": "pending",
+    "description": "",
+    "due_date": "2026-06-30",
+    "created_at": "2026-06-07T13:14:14.385964",
+    "updated_at": "2026-06-07T13:14:14.385966"
+  },
+  {
+    "id": "eec31892",
+    "title": "Fix leaking kitchen faucet",
+    "category": "home",
+    "priority": "medium",
+    "status": "pending",
+    "description": "",
+    "due_date": "2026-06-18",
+    "created_at": "2026-06-07T13:14:14.385971",
+    "updated_at": "2026-06-07T13:14:14.385973"
+  },
+  {
+    "id": "082e9de1",
+    "title": "Clean garage",
+    "category": "home",
+    "priority": "low",
+    "status": "cancelled",
+    "description": "Postponed until summer",
+    "due_date": null,
+    "created_at": "2026-06-07T13:14:14.385977",
+    "updated_at": "2026-06-07T13:14:14.385979"
+  },
+  {
+    "id": "4fd7cce5",
+    "title": "Buy groceries",
+    "category": "home",
+    "priority": "medium",
+    "status": "done",
+    "description": "Weekly shopping done",
+    "due_date": null,
+    "created_at": "2026-06-07T13:14:14.385984",
+    "updated_at": "2026-06-07T13:14:14.385985"
+  }
+]
